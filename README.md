@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Michael-Buffett
+- 👀 I’m interested in coding and food
+- 🌱 I’m currently learning web programming with Python and JavaScript
+- 💞️ I’m looking to collaborate on small projects
+- 📫 Reach me via email michael.buffett@startfreshproject.com
